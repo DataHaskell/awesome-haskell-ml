@@ -1,44 +1,53 @@
 # Awesomeish Haskell Machine Learning
-A personal collection of awesome Haskell-Machine-Learning residencies, workshops/schools, labs, projects, fellowships. Not related to awesome projects, since it's not about libraries or code links.
+A collection of awesome Haskell-Machine-Learning residencies, workshops/schools, labs, FOSS projects, fellowships. Inspired by the awesome projects, but without a focus on code.
 
-#### Residencies:
+#### Conferences:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Name | Location | Submission Season | Event Season | Topics |
+|------|----------|-------------------|--------------|--------|
+| NIPS |          |                   |              |        |
+| ICML |          |                   |              |        |
+| KDD  |          |                   |              |        |
+| ICFP |          |                   |              |        |
 
 #### Workshops/Schools:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Name  | Organization | Location      | Duration | Dates              |
+|-------|--------------|---------------|----------|--------------------|
+| PPAML | Galois       | Virginia, USA | 1w       | July-August        |
 
 #### Labs:
 
+| Name                  | Location      | SE-friendly? | Functional-friendly? | Remote? | Link                                                                             |
+|-----------------------|---------------|--------------|----------------------| --------|----------------------------------------------------------------------------------|
+| Future of Life        | Cambridge, MA | Y            |                    ? | ?       | https://futureoflife.org/get-involved/                                           |
+| MIT-IBM Watson AI Lab | Cambridge, MA | ?            |                    ? | ?       | http://mitibmwatsonailab.mit.edu/                                                |
+| OpenAI                | Berkeley, CA  | Y            |                    ? | ?       | https://openai.com/                                                              |
+| MIRI                  | Berkeley, CA  | Y            |                    Y | ?       | https://intelligence.org/2017/04/30/software-engineer-internship-staff-openings/ |
+
+
+#### FOSS Projects:
+
+| Name                      |link                                          |
+|---------------------------|----------------------------------------------|
+| chris-taylor/aima-haskell | https://github.com/chris-taylor/aima-haskell |
+| diffusionkinetics/open    | https://github.com/diffusionkinetics/open    |
+| Sentenai/reinforce        | https://github.com/Sentenai/reinforce        |
+| AccelerateHS/accelerate   | https://github.com/AccelerateHS/accelerate   |
+| hakaru-dev/hakaru         | https://github.com/hakaru-dev/hakaru         |
+| adscib/monad-bayes        | https://github.com/adscib/monad-bayes        |
+| OpenCog                   | http://opencog.org/                          |
+
+
+#### Fellowships:
+
 |   |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 
-
-#### Projects:
-
-| Name                      |link                                          |   |   |   |
-|---------------------------|----------------------------------------------|---|---|---|
-| chris-taylor/aima-haskell | https://github.com/chris-taylor/aima-haskell |   |   |   |
-| diffusionkinetics/open    | https://github.com/diffusionkinetics/open    |   |   |   |
-| Sentenai/reinforce        | https://github.com/Sentenai/reinforce        |   |   |   |
-| AccelerateHS/accelerate   | https://github.com/AccelerateHS/accelerate   |   |   |   |
-| hakaru-dev/hakaru         | https://github.com/hakaru-dev/hakaru         |   |   |   |
-| adscib/monad-bayes        | https://github.com/adscib/monad-bayes        |   |   |   |
-
-
-#### Fellowships:
+#### Residencies:
 
 |   |   |   |   |   |
 |---|---|---|---|---|

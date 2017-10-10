@@ -41,11 +41,9 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### Fellowships:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Name     | When             | $$$   | Link                 |
+|----------|------------------|-------|----------------------|
+| AI-grant | Spring, Annually | 2,500 | https://aigrant.org/ |
 
 #### Residencies:
 
@@ -61,5 +59,13 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 |Name           | Location            | Specialty                                      | link                                           | last-update | Source                                                                           |
 |---------------|---------------------|------------------------------------------------|------------------------------------------------|-------------|----------------------------------------------------------------------------------|
 | Hal Daume III | University Maryland |                                                | http://www.umiacs.umd.edu/~hal/software.html   | 9/13/2017   | https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell |
+
+#### Companies:
+
+| Name          | Location               | Specialty                                      | link                      | FOSS projects |
+|---------------|------------------------|------------------------------------------------|---------------------------|---------------|
+| Sentenai      | Boston, MA, USA        | Reinforcement Learning, Deep learning          | www.sentenai.com          | reinforce     |
+| Silverpond    | Melbourne, AU          | CV, Deep learning                              | http://silverpond.com.au/ |               |
+| Takt          | San Francisco, CA, USA | ?                                              | www.takt.com              | tensorflow-hs |
 
 

@@ -42,6 +42,7 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 | hopfield-networks         | haskell | https://github.com/ajtulloch/hopfield-networks |
 | dnngraph                  | haskell | https://github.com/ajtulloch/dnngraph |
 | lambdanet                 | haskell | https://github.com/jbarrow/LambdaNet |
+| HSvm                      | c++ bindings | https://github.com/paulrzcz/HSvm |
 
 
 
@@ -62,10 +63,12 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### Researchers:
 
-|Name           | Location              | link                                           | last-update | Source                                                                           |
-|---------------|-----------------------|------------------------------------------------|-------------|----------------------------------------------------------------------------------|
-| Hal Daume III | University Maryland   | http://www.umiacs.umd.edu/~hal/software.html   | 9/13/2017   | https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell |
-| Andrew Tulloch | Facebook AI Research | http://tullo.ch/                               |             | https://github.com/ajtulloch |
+|Name            | Location              | link                                           | last-update | Source                                                                           |
+|----------------|-----------------------|------------------------------------------------|-------------|----------------------------------------------------------------------------------|
+| Hal Daume III  | University Maryland   | http://www.umiacs.umd.edu/~hal/software.html   | 9/13/2017   | https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell |
+| Andrew Tulloch | Facebook AI Research  | http://tullo.ch/                               |             | https://github.com/ajtulloch |
+| Ron Alford     | MITRE (from UMD)      | http://www.volus.net/                          | 2016-04-12  | https://mail.haskell.org/pipermail/haskell-cafe/2010-May/077343.html |
+| Justin Le      | Chapman University    | https://blog.jle.im/                           |             | |
 
 #### Companies:
 
@@ -75,4 +78,8 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 | Silverpond    | Melbourne, AU          | CV, Deep learning                              | http://silverpond.com.au/ |               |
 | Takt          | San Francisco, CA, USA | ?                                              | www.takt.com              | tensorflow-hs |
 
+#### Papers to keep in mind:
 
+https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf
+https://wiki.haskell.org/AI
+http://www.cs.umd.edu/projects/planning/data/alford09translating/

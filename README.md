@@ -28,15 +28,21 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### FOSS Projects:
 
-| Name                      |link                                          |
-|---------------------------|----------------------------------------------|
-| chris-taylor/aima-haskell | https://github.com/chris-taylor/aima-haskell |
-| diffusionkinetics/open    | https://github.com/diffusionkinetics/open    |
-| Sentenai/reinforce        | https://github.com/Sentenai/reinforce        |
-| AccelerateHS/accelerate   | https://github.com/AccelerateHS/accelerate   |
-| hakaru-dev/hakaru         | https://github.com/hakaru-dev/hakaru         |
-| adscib/monad-bayes        | https://github.com/adscib/monad-bayes        |
-| OpenCog                   | http://opencog.org/                          |
+| Name                      | topics  |link                                          |
+|---------------------------|---------|----------------------------------------------|
+| chris-taylor/aima-haskell | haskell | https://github.com/chris-taylor/aima-haskell |
+| diffusionkinetics/open    | haskell | https://github.com/diffusionkinetics/open    |
+| Sentenai/reinforce        | haskell | https://github.com/Sentenai/reinforce        |
+| AccelerateHS/accelerate   | haskell | https://github.com/AccelerateHS/accelerate   |
+| hakaru-dev/hakaru         | haskell | https://github.com/hakaru-dev/hakaru         |
+| adscib/monad-bayes        | haskell | https://github.com/adscib/monad-bayes        |
+| OpenCog                   |         | http://opencog.org/                          |
+| haskell-ml                | haskell | https://github.com/ajtulloch/haskell-ml      |
+| hlearn                    | haskell | https://github.com/mikeizbicki/HLearn        |
+| hopfield-networks         | haskell | https://github.com/ajtulloch/hopfield-networks |
+| dnngraph                  | haskell | https://github.com/ajtulloch/dnngraph |
+| lambdanet                 | haskell | https://github.com/jbarrow/LambdaNet |
+
 
 
 #### Fellowships:
@@ -54,11 +60,12 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 |   |   |   |   |   |
 
 
-#### Professors:
+#### Researchers:
 
-|Name           | Location            | Specialty                                      | link                                           | last-update | Source                                                                           |
-|---------------|---------------------|------------------------------------------------|------------------------------------------------|-------------|----------------------------------------------------------------------------------|
-| Hal Daume III | University Maryland |                                                | http://www.umiacs.umd.edu/~hal/software.html   | 9/13/2017   | https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell |
+|Name           | Location              | link                                           | last-update | Source                                                                           |
+|---------------|-----------------------|------------------------------------------------|-------------|----------------------------------------------------------------------------------|
+| Hal Daume III | University Maryland   | http://www.umiacs.umd.edu/~hal/software.html   | 9/13/2017   | https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell |
+| Andrew Tulloch | Facebook AI Research | http://tullo.ch/                               |             | https://github.com/ajtulloch |
 
 #### Companies:
 

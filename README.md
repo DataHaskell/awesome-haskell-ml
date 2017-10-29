@@ -91,6 +91,12 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 | Ron Alford     | MITRE (from UMD)      | http://www.volus.net/                          | 2016-04-12  | https://mail.haskell.org/pipermail/haskell-cafe/2010-May/077343.html |
 | Justin Le      | Chapman University    | https://blog.jle.im/                           |             | |
 
+#### Bloggers:
+functional-leaning AI bloggers, or AI-leaning FP bloggers (or both, but it's too uncommon).
+
+[Mike Izbicki](https://izbicki.me)
+
+
 #### Companies:
 
 | Name          | Location               | Specialty                                      | link                      | FOSS projects |

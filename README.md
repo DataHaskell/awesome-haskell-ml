@@ -3,18 +3,37 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### Conferences:
 
-| Name | Location | Submission Season | Event Season | Topics |
-|------|----------|-------------------|--------------|--------|
-| NIPS |          |                   |              |        |
-| ICML |          |                   |              |        |
-| KDD  |          |                   |              |        |
-| ICFP |          |                   |              |        |
+| Name             | Location      | Submission Season | Event Season | Topics   | Latest URL |
+|------------------|---------------|-------------------|--------------|----------|------------|
+| NIPS             |               |                   |              | AI       | https://nips.cc/ |
+| ICML             |               |                   |              | AI/ML    | https://2017.icml.cc/ |
+| KDD              |               |                   |              | AI/ML    | http://www.kdd.org/ |
+| ICFP             |               |                   |              | FP/DS    | http://www.icfpconference.org/ |
+| AMAI             | US            |                   | Bi-annual    | AI/CT    | http://rutcor.rutgers.edu/~amai/ |
+| AAAI             | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/AAAI/aaai.php |
+| IAAI             | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/IAAI/iaai.php |
+| ICPR             | US            |                   | Q4           | AI       | http://www.icpr2016.org/site/ |
+| Haskell Exchange | Europe        |                   | Q4           | FP       | https://skillsmatter.com/conferences/7276-haskell-exchange-2016 |
+| Strange Loop     | St. Louis     |                   | Sept         | FP/All   | https://www.thestrangeloop.com/ |
+| YOW!             | Sydney, AU    |                   | Q4           | FP       | http://sydney.yowconference.com.au/ |
+| Lambda.world     | Europe        |                   | Q4           | FP       | http://www.lambda.world/ |
+| CodeMesh         | Europe        |                   | Q4           | FP       | http://www.codemesh.io/ |
+| EMNLP            | Europe        |                   | Q3           | NLP      | http://emnlp2017.net/ |
+| ACL              | Melbourne, AU |                   | Q3           | NLP      | http://wikicfp.com/cfp/servlet/event.showcfp?eventid=67104&copyownerid=2 |
+| O'reilly AI Conf | NY/SF/CN/UK   |                   | Q2/Q2/Q3/Q4  | Industry | https://conferences.oreilly.com/artificial-intelligence/ai-ny |
+| MLconf           | SF            |                   | Q4           | Industry | http://www.mlconf.com/ |
+| RE-WORK          | SF            |                   | Q1           | Industry | https://re-work.co/events/machine-intelligence-summit-san-francisco-2017 |
+
+[perma]: https://perma.cc/BNY6-RGV5
+[cs-conf-rank]: http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
+[clone-of-rank]: http://dsl.cds.iisc.ac.in/publications/CS_ConfRank.htm
 
 #### Workshops/Schools:
 
-| Name  | Organization | Location      | Duration | Dates              |
-|-------|--------------|---------------|----------|--------------------|
-| PPAML | Galois       | Virginia, USA | 1w       | July-August        |
+| Name    | Organization   | Location      | Duration | Dates              | Focus                     |
+|---------|----------------|---------------|----------|--------------------|---------------------------|
+| PPAML   | Galois         | Virginia, USA | 1w       | July-August        | Probabilistic Programming |
+| Recurse | Recurse Center | NY, USA       | 12w      | Rolling            | None                      |
 
 #### Labs:
 
@@ -48,9 +67,11 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### Fellowships:
 
-| Name     | When             | $$$   | Link                 |
-|----------|------------------|-------|----------------------|
-| AI-grant | Spring, Annually | 2,500 | https://aigrant.org/ |
+| Name     | When             | $$$   | Link                         |
+|----------|------------------|-------|------------------------------|
+| AI-grant | Spring, Annually | 2,500 | https://aigrant.org/         |
+| Berkman  | ?                | ?     | https://cyber.harvard.edu/   |
+| Knight   | ?                | 0     | https://knightfoundation.org |
 
 #### Residencies:
 

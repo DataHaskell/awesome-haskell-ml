@@ -39,10 +39,11 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 | Name                  | Location      | SE-friendly? | Functional-friendly? | Remote? | Link                                                                             |
 |-----------------------|---------------|--------------|----------------------| --------|----------------------------------------------------------------------------------|
-| Future of Life        | Cambridge, MA | Y            |                    ? | ?       | https://futureoflife.org/get-involved/                                           |
-| MIT-IBM Watson AI Lab | Cambridge, MA | ?            |                    ? | ?       | http://mitibmwatsonailab.mit.edu/                                                |
-| OpenAI                | Berkeley, CA  | Y            |                    ? | ?       | https://openai.com/                                                              |
-| MIRI                  | Berkeley, CA  | Y            |                    Y | ?       | https://intelligence.org/2017/04/30/software-engineer-internship-staff-openings/ |
+| Future of Life        | Cambridge, MA | Y            | ?                    | ?       | https://futureoflife.org/get-involved/                                           |
+| MIT-IBM Watson AI Lab | Cambridge, MA | ?            | ?                    | ?       | http://mitibmwatsonailab.mit.edu/                                                |
+| OpenAI                | Berkeley, CA  | Y            | ?                    | ?       | https://openai.com/                                                              |
+| MIRI                  | Berkeley, CA  | Y            | Y                    | ?       | https://intelligence.org/2017/04/30/software-engineer-internship-staff-openings/ |
+| Data Science Center   | UC Riverside  | N            | Y                    | N       | http://datascience.ucr.edu/                                                      |
 
 
 #### FOSS Projects:
@@ -90,6 +91,7 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 | Andrew Tulloch | Facebook AI Research  | http://tullo.ch/                               |             | https://github.com/ajtulloch |
 | Ron Alford     | MITRE (from UMD)      | http://www.volus.net/                          | 2016-04-12  | https://mail.haskell.org/pipermail/haskell-cafe/2010-May/077343.html |
 | Justin Le      | Chapman University    | https://blog.jle.im/                           |             | |
+| Mike Izbicki   | UC Riverside          | https://izbicki.me/                            | 2015-07-21  | |
 
 #### Bloggers:
 functional-leaning AI bloggers, or AI-leaning FP bloggers (or both, but it's too uncommon).
@@ -107,6 +109,6 @@ functional-leaning AI bloggers, or AI-leaning FP bloggers (or both, but it's too
 
 #### Papers to keep in mind:
 
-https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf
-https://wiki.haskell.org/AI
-http://www.cs.umd.edu/projects/planning/data/alford09translating/
+- https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf
+- https://wiki.haskell.org/AI
+- http://www.cs.umd.edu/projects/planning/data/alford09translating/

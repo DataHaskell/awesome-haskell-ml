@@ -3,26 +3,27 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### Conferences:
 
-| Name             | Location      | Submission Season | Event Season | Topics   | Latest URL |
-|------------------|---------------|-------------------|--------------|----------|------------|
-| NIPS             |               |                   |              | AI       | https://nips.cc/ |
-| ICML             |               |                   |              | AI/ML    | https://2017.icml.cc/ |
-| KDD              |               |                   |              | AI/ML    | http://www.kdd.org/ |
-| ICFP             |               |                   |              | FP/DS    | http://www.icfpconference.org/ |
-| AMAI             | US            |                   | Bi-annual    | AI/CT    | http://rutcor.rutgers.edu/~amai/ |
-| AAAI             | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/AAAI/aaai.php |
-| IAAI             | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/IAAI/iaai.php |
-| ICPR             | US            |                   | Q4           | AI       | http://www.icpr2016.org/site/ |
-| Haskell Exchange | Europe        |                   | Q4           | FP       | https://skillsmatter.com/conferences/7276-haskell-exchange-2016 |
-| Strange Loop     | St. Louis     |                   | Sept         | FP/All   | https://www.thestrangeloop.com/ |
-| YOW!             | Sydney, AU    |                   | Q4           | FP       | http://sydney.yowconference.com.au/ |
-| Lambda.world     | Europe        |                   | Q4           | FP       | http://www.lambda.world/ |
-| CodeMesh         | Europe        |                   | Q4           | FP       | http://www.codemesh.io/ |
-| EMNLP            | Europe        |                   | Q3           | NLP      | http://emnlp2017.net/ |
-| ACL              | Melbourne, AU |                   | Q3           | NLP      | http://wikicfp.com/cfp/servlet/event.showcfp?eventid=67104&copyownerid=2 |
-| O'reilly AI Conf | NY/SF/CN/UK   |                   | Q2/Q2/Q3/Q4  | Industry | https://conferences.oreilly.com/artificial-intelligence/ai-ny |
-| MLconf           | SF            |                   | Q4           | Industry | http://www.mlconf.com/ |
-| RE-WORK          | SF            |                   | Q1           | Industry | https://re-work.co/events/machine-intelligence-summit-san-francisco-2017 |
+| Name                    | Location      | Submission Season | Event Season | Topics   | Latest URL |
+|-------------------------|---------------|-------------------|--------------|----------|------------|
+| NIPS                    |               |                   |              | AI       | https://nips.cc/ |
+| ICML                    |               |                   |              | AI/ML    | https://2017.icml.cc/ |
+| KDD                     |               |                   |              | AI/ML    | http://www.kdd.org/ |
+| ICFP                    |               |                   |              | FP/DS    | http://www.icfpconference.org/ |
+| AMAI                    | US            |                   | Bi-annual    | AI/CT    | http://rutcor.rutgers.edu/~amai/ |
+| AAAI                    | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/AAAI/aaai.php |
+| IAAI                    | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/IAAI/iaai.php |
+| ICPR                    | US            |                   | Q4           | AI       | http://www.icpr2016.org/site/ |
+| Haskell Exchange        | Europe        |                   | Q4           | FP       | https://skillsmatter.com/conferences/7276-haskell-exchange-2016 |
+| Strange Loop            | St. Louis     |                   | Sept         | FP/All   | https://www.thestrangeloop.com/ |
+| YOW!                    | Sydney, AU    |                   | Q4           | FP       | http://sydney.yowconference.com.au/ |
+| Lambda.world            | Europe        |                   | Q4           | FP       | http://www.lambda.world/ |
+| CodeMesh                | Europe        |                   | Q4           | FP       | http://www.codemesh.io/ |
+| EMNLP                   | Europe        |                   | Q3           | NLP      | http://emnlp2017.net/ |
+| ACL                     | Melbourne, AU |                   | Q3           | NLP      | http://wikicfp.com/cfp/servlet/event.showcfp?eventid=67104&copyownerid=2 |
+| O'reilly AI Conf        | NY/SF/CN/UK   |                   | Q2/Q2/Q3/Q4  | Industry | https://conferences.oreilly.com/artificial-intelligence/ai-ny |
+| MLconf                  | SF            |                   | Q4           | Industry | http://www.mlconf.com/ |
+| RE-WORK                 | SF            |                   | Q1           | Industry | https://re-work.co/events/machine-intelligence-summit-san-francisco-2017 |
+| Applied Category Theory | Netherlands   |                   | Q1           | Industry | http://www.appliedcategorytheory.org/ |
 
 [perma]: https://perma.cc/BNY6-RGV5
 [cs-conf-rank]: http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
@@ -30,10 +31,11 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 #### Workshops/Schools:
 
-| Name    | Organization   | Location      | Duration | Dates              | Focus                     |
-|---------|----------------|---------------|----------|--------------------|---------------------------|
-| PPAML   | Galois         | Virginia, USA | 1w       | July-August        | Probabilistic Programming |
-| Recurse | Recurse Center | NY, USA       | 12w      | Rolling            | None                      |
+| Name           | Organization            | Location      | Duration | Dates              | Focus                     | Link                                            |
+|----------------|-------------------------|---------------|----------|--------------------|---------------------------|-------------------------------------------------|
+| PPAML          | Galois                  | Virginia, USA | 1w       | July-August        | Probabilistic Programming | http://ppaml.galois.com/wiki/wiki/SummerSchools |
+| Recurse        | Recurse Center          | NY, USA       | 12w      | Rolling            | None                      | https://www.recurse.com/                        |
+| Adjunct School | Applied Category Theory | Netherlands   | 5d       | November           | Category Theory           | http://www.appliedcategorytheory.org/school/    |
 
 #### Labs:
 
@@ -44,6 +46,7 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 | OpenAI                | Berkeley, CA  | Y            | ?                    | ?       | https://openai.com/                                                              |
 | MIRI                  | Berkeley, CA  | Y            | Y                    | ?       | https://intelligence.org/2017/04/30/software-engineer-internship-staff-openings/ |
 | Data Science Center   | UC Riverside  | N            | Y                    | N       | http://datascience.ucr.edu/                                                      |
+| Vicarious             | San Francisco | Y            | N                    | ?       | https://www.vicarious.com/                                                       |
 
 
 #### FOSS Projects:

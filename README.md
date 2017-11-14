@@ -125,3 +125,12 @@ Any bloggers not captured in the Researchers section (can be active or inactive)
 - "Algebraic classifiers: a generic approach to fast cross-validation, online training, and parallel training" - Michael Izbicki. ICML 2013. [paper](https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf)
 - AI section of the haskell wiki (includes people, projects, and thoughts from the old AI Strike Force): [wiki.haskell.org/AI](https://wiki.haskell.org/AI)
 - "Translating HTNs to PDDL: A Small Amount of Domain Knowledge Can Go a Long Way" - Ronald Wayne Alford, Ugur Kuter, Dana Nau. IJCAI 2009. [paper](https://www.ijcai.org/Proceedings/09/Papers/272.pdf), [vanity](http://www.cs.umd.edu/projects/planning/data/alford09translating/)
+
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sam Stites (maintainer)](https://stites.io) has waived all copyright and related or neighboring rights to this work.
+

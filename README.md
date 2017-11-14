@@ -5,25 +5,25 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 | Name                    | Location      | Submission Season | Event Season | Topics   | Latest URL |
 |-------------------------|---------------|-------------------|--------------|----------|------------|
-| NIPS                    |               |                   |              | AI       | https://nips.cc/ |
-| ICML                    |               |                   |              | AI/ML    | https://2017.icml.cc/ |
-| KDD                     |               |                   |              | AI/ML    | http://www.kdd.org/ |
-| ICFP                    |               |                   |              | FP/DS    | http://www.icfpconference.org/ |
-| AMAI                    | US            |                   | Bi-annual    | AI/CT    | http://rutcor.rutgers.edu/~amai/ |
-| AAAI                    | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/AAAI/aaai.php |
-| IAAI                    | US            |                   | Q1           | AI       | https://www.aaai.org/Conferences/IAAI/iaai.php |
-| ICPR                    | US            |                   | Q4           | AI       | http://www.icpr2016.org/site/ |
-| Haskell Exchange        | Europe        |                   | Q4           | FP       | https://skillsmatter.com/conferences/7276-haskell-exchange-2016 |
-| Strange Loop            | St. Louis     |                   | Sept         | FP/All   | https://www.thestrangeloop.com/ |
-| YOW!                    | Sydney, AU    |                   | Q4           | FP       | http://sydney.yowconference.com.au/ |
-| Lambda.world            | Europe        |                   | Q4           | FP       | http://www.lambda.world/ |
-| CodeMesh                | Europe        |                   | Q4           | FP       | http://www.codemesh.io/ |
-| EMNLP                   | Europe        |                   | Q3           | NLP      | http://emnlp2017.net/ |
-| ACL                     | Melbourne, AU |                   | Q3           | NLP      | http://wikicfp.com/cfp/servlet/event.showcfp?eventid=67104&copyownerid=2 |
-| O'reilly AI Conf        | NY/SF/CN/UK   |                   | Q2/Q2/Q3/Q4  | Industry | https://conferences.oreilly.com/artificial-intelligence/ai-ny |
-| MLconf                  | SF            |                   | Q4           | Industry | http://www.mlconf.com/ |
-| RE-WORK                 | SF            |                   | Q1           | Industry | https://re-work.co/events/machine-intelligence-summit-san-francisco-2017 |
-| Applied Category Theory | Netherlands   |                   | Q1           | Industry | http://www.appliedcategorytheory.org/ |
+| NIPS                    |               |                   |              | AI       | [nips.cc](https://nips.cc/) |
+| ICML                    |               |                   |              | AI/ML    | [2017.icml.cc](https://2017.icml.cc/) |
+| KDD                     |               |                   |              | AI/ML    | [kdd.org](http://www.kdd.org/) |
+| ICFP                    |               |                   |              | FP/DS    | [icfpconference.org](http://www.icfpconference.org/) |
+| AMAI                    | US            |                   | Bi-annual    | AI/CT    | [rutcor.rutgers.edu](http://rutcor.rutgers.edu/~amai/) |
+| AAAI                    | US            |                   | Q1           | AI       | [aaai.org](https://www.aaai.org/Conferences/AAAI/aaai.php) |
+| IAAI                    | US            |                   | Q1           | AI       | [aaai.org](https://www.aaai.org/Conferences/IAAI/iaai.php) |
+| ICPR                    | US            |                   | Q4           | AI       | [icpr2016.org](http://www.icpr2016.org/site/) |
+| Haskell Exchange        | Europe        |                   | Q4           | FP       | [skillsmatter.com](https://skillsmatter.com/conferences/7276-haskell-exchange-2016) |
+| Strange Loop            | St. Louis     |                   | Sept         | FP/All   | [thestrangeloop.com](https://www.thestrangeloop.com/) |
+| YOW!                    | Sydney, AU    |                   | Q4           | FP       | [sydney.yowconference.com.au](http://sydney.yowconference.com.au/) |
+| Lambda.world            | Europe        |                   | Q4           | FP       | [lambda.world](http://www.lambda.world/) |
+| CodeMesh                | Europe        |                   | Q4           | FP       | [codemesh.io](http://www.codemesh.io/) |
+| EMNLP                   | Europe        |                   | Q3           | NLP      | [emnlp2017.net](http://emnlp2017.net/) |
+| ACL                     | Melbourne, AU |                   | Q3           | NLP      | [wikicfp.com](http://wikicfp.com/cfp/servlet/event.showcfp?eventid=67104&copyownerid=2) |
+| O'reilly AI Conf        | NY/SF/CN/UK   |                   | Q2/Q2/Q3/Q4  | Industry | [conferences.oreilly.com](https://conferences.oreilly.com/artificial-intelligence/ai-ny) |
+| MLconf                  | SF            |                   | Q4           | Industry | [mlconf.com](http://www.mlconf.com/) |
+| RE-WORK                 | SF            |                   | Q1           | Industry | [re-work.co](https://re-work.co/events/machine-intelligence-summit-san-francisco-2017) |
+| Applied Category Theory | Netherlands   |                   | Q1           | Industry | [appliedcategorytheory.org](http://www.appliedcategorytheory.org/) |
 
 [perma]: https://perma.cc/BNY6-RGV5
 [cs-conf-rank]: http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
@@ -33,21 +33,22 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 
 | Name           | Organization            | Location      | Duration | Dates              | Focus                     | Link                                            |
 |----------------|-------------------------|---------------|----------|--------------------|---------------------------|-------------------------------------------------|
-| PPAML          | Galois                  | Virginia, USA | 1w       | July-August        | Probabilistic Programming | http://ppaml.galois.com/wiki/wiki/SummerSchools |
-| Recurse        | Recurse Center          | NY, USA       | 12w      | Rolling            | None                      | https://www.recurse.com/                        |
-| Adjunct School | Applied Category Theory | Netherlands   | 5d       | November           | Category Theory           | http://www.appliedcategorytheory.org/school/    |
+| PPAML          | Galois                  | Virginia, USA | 1w       | July-August        | Probabilistic Programming | [ppaml.galois.com](http://ppaml.galois.com/wiki/wiki/SummerSchools) |
+| Recurse        | Recurse Center          | NY, USA       | 12w      | Rolling            | None                      | [recurse.com](https://www.recurse.com/) |
+| Adjunct School | Applied Category Theory | Netherlands   | 5d       | November           | Category Theory           | [appliedcategorytheory.org](http://www.appliedcategorytheory.org/school/) |
 
 #### Labs:
 
 | Name                  | Location      | SE-friendly? | Functional-friendly? | Remote? | Link                                                                             |
 |-----------------------|---------------|--------------|----------------------| --------|----------------------------------------------------------------------------------|
-| Future of Life        | Cambridge, MA | Y            | ?                    | ?       | https://futureoflife.org/get-involved/                                           |
-| MIT-IBM Watson AI Lab | Cambridge, MA | ?            | ?                    | ?       | http://mitibmwatsonailab.mit.edu/                                                |
-| OpenAI                | Berkeley, CA  | Y            | ?                    | ?       | https://openai.com/                                                              |
-| MIRI                  | Berkeley, CA  | Y            | Y                    | ?       | https://intelligence.org/2017/04/30/software-engineer-internship-staff-openings/ |
-| Data Science Center   | UC Riverside  | N            | Y                    | N       | http://datascience.ucr.edu/                                                      |
-| Vicarious             | San Francisco | Y            | N                    | ?       | https://www.vicarious.com/                                                       |
+| Future of Life        | Cambridge, MA | Y            | ?                    | ?       | [futureoflife.org](https://futureoflife.org/get-involved/) |
+| MIT-IBM Watson AI Lab | Cambridge, MA | ?            | ?                    | ?       | [mitibmwatsonailab.mit.edu](http://mitibmwatsonailab.mit.edu/) |
+| OpenAI                | Berkeley, CA  | Y            | ?                    | ?       | [openai.com](https://openai.com/) |
+| MIRI                  | Berkeley, CA  | Y            | Y                    | ?       | [intelligence.org](https://intelligence.org/2017/04/30/software-engineer-internship-staff-openings/) |
+| Data Science Center   | UC Riverside  | N            | Y                    | N       | [datascience.ucr.edu](http://datascience.ucr.edu/) |
+| Vicarious             | San Francisco | Y            | N                    | ?       | [vicarious.com](https://www.vicarious.com/) |
 
+<!-- there will be better projects for this somewhere else
 
 #### FOSS Projects:
 
@@ -67,51 +68,60 @@ A collection of awesome Haskell-Machine-Learning residencies, workshops/schools,
 | lambdanet                 | haskell | https://github.com/jbarrow/LambdaNet |
 | HSvm                      | c++ bindings | https://github.com/paulrzcz/HSvm |
 
-
+-->
 
 #### Fellowships:
 
-| Name     | When             | $$$   | Link                         |
-|----------|------------------|-------|------------------------------|
-| AI-grant | Spring, Annually | 2,500 | https://aigrant.org/         |
-| Berkman  | ?                | ?     | https://cyber.harvard.edu/   |
-| Knight   | ?                | 0     | https://knightfoundation.org |
+These are more along the lines of generic fellowships in AI or FP which could be ammenable to the mix of the two:
+
+| Name     | When             | $$$   | Specialty           | Link                         |
+|----------|------------------|-------|---------------------|------------------------------|
+| AI-grant | Spring, Annually | 2,500 | AI                  | [aigrant.org](https://aigrant.org/) |
+| Berkman  | ?                | ?     | AI/Society/Law      | [cyber.harvard.edu](https://cyber.harvard.edu/) |
+| Knight   | ?                | 0     | AI/Multidisiplinary | [knightfoundation.org](https://knightfoundation.org) |
 
 #### Residencies:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
+empty at the moment
 
 #### Researchers:
 
-|Name            | Location              | link                                           | last-update | Source                                                                           |
-|----------------|-----------------------|------------------------------------------------|-------------|----------------------------------------------------------------------------------|
-| Hal Daume III  | University Maryland   | http://www.umiacs.umd.edu/~hal/software.html   | 9/13/2017   | https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell |
-| Andrew Tulloch | Facebook AI Research  | http://tullo.ch/                               |             | https://github.com/ajtulloch |
-| Ron Alford     | MITRE (from UMD)      | http://www.volus.net/                          | 2016-04-12  | https://mail.haskell.org/pipermail/haskell-cafe/2010-May/077343.html |
-| Justin Le      | Chapman University    | https://blog.jle.im/                           |             | |
-| Mike Izbicki   | UC Riverside          | https://izbicki.me/                            | 2015-07-21  | |
+| Name              | Location              | personal website                              | Blogs? | last-update | Other Links           | Source |
+|-------------------|-----------------------|-----------------------------------------------|--------|-------------|-----------------------|--------|
+| Hal Daume III     | University Maryland   | [umiacs.umd.edu][researchers-site-hd]         | N?     | 2017-09-13  |                       | [SO][researchers-hd-so] |
+| Andrew Tulloch    | Facebook AI Research  | [tullo.ch][researchers-site-at]               | N?     |             |                       | [github][researchers-at-gh] |
+| Ron Alford        | MITRE (from UMD)      | [volus.net][researchers-site-ra]              | N?     | 2016-04-12  |                       | [haskell-cafe][researchers-ra-hc] |
+| Justin Le         | Chapman University    | [blog.jle.im][researchers-site-jl]            | Y      |             |                       | everywhere / backprop |
+| Mike Izbicki      | UC Riverside          | [izbicki.me][researchers-site-mi]             | Y      | 2015-07-21  |                       | everywhere / hlearn |
+| Grzegorz Chrupała | Tilburg University    | [grzegorz.chrupala.me][researchers-site-gc]   | N?     | 2017-11-08  | [hackage][gc-hackage] | [gitter][researchers-gc-gitter]  |
+
+[researchers-site-hd]:http://www.umiacs.umd.edu/~hal/software.html
+[researchers-site-at]:http://tullo.ch/
+[researchers-site-ra]:http://www.volus.net/
+[researchers-site-jl]:https://blog.jle.im/
+[researchers-site-mi]:https://izbicki.me/
+[researchers-site-gc]:http://grzegorz.chrupala.me/
+[researchers-hd-so]:https://stackoverflow.com/questions/2268885/machine-learning-in-ocaml-or-haskell
+[researchers-at-gh]:https://github.com/ajtulloch
+[researchers-ra-hc]:https://mail.haskell.org/pipermail/haskell-cafe/2010-May/077343.html
+[researchers-gc-hackage]:https://hackage.haskell.org/user/GrzegorzChrupala
+[researchers-gc-gitter]:https://gitter.im/dataHaskell/Lobby?at=5a0956d7614889d4757375d1
 
 #### Bloggers:
-functional-leaning AI bloggers, or AI-leaning FP bloggers (or both, but it's too uncommon).
 
-[Mike Izbicki](https://izbicki.me)
-
+Any bloggers not captured in the Researchers section (can be active or inactive)
 
 #### Companies:
 
-| Name          | Location               | Specialty                                      | link                      | FOSS projects |
-|---------------|------------------------|------------------------------------------------|---------------------------|---------------|
-| Sentenai      | Boston, MA, USA        | Reinforcement Learning, Deep learning          | www.sentenai.com          | reinforce     |
-| Silverpond    | Melbourne, AU          | CV, Deep learning                              | http://silverpond.com.au/ |               |
-| Takt          | San Francisco, CA, USA | ?                                              | www.takt.com              | tensorflow-hs |
+| Name          | Location               | Specialty                                      | FOSS projects | link                             |
+|---------------|------------------------|------------------------------------------------|---------------|----------------------------------|
+| Sentenai      | Boston, MA, USA        | Reinforcement Learning, Deep learning          | reinforce     | [sentenai.com](www.sentenai.com) |
+| Ambiata       | Surry Hills, AU        | ML, Deep learning                              | grenade       | [ambiata.com](https://ambiata.com/) |
+| Takt          | San Francisco, CA, USA | ?                                              | tensorflow-hs | [takt.com](www.takt.com) |
+| Silverpond    | Melbourne, AU          | CV, Deep learning                              |               | [silverpond.com.au](http://silverpond.com.au) |
 
-#### Papers to keep in mind:
+#### Papers/Links to keep in mind:
 
-- https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf
-- https://wiki.haskell.org/AI
-- http://www.cs.umd.edu/projects/planning/data/alford09translating/
+- "Algebraic classifiers: a generic approach to fast cross-validation, online training, and parallel training" - Michael Izbicki. ICML 2013. [paper](https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf)
+- AI section of the haskell wiki (includes people, projects, and thoughts from the old AI Strike Force): [wiki.haskell.org/AI](https://wiki.haskell.org/AI)
+- "Translating HTNs to PDDL: A Small Amount of Domain Knowledge Can Go a Long Way" - Ronald Wayne Alford, Ugur Kuter, Dana Nau. IJCAI 2009. [paper](https://www.ijcai.org/Proceedings/09/Papers/272.pdf), [vanity](http://www.cs.umd.edu/projects/planning/data/alford09translating/)

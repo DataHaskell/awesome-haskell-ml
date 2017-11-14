@@ -1,5 +1,5 @@
-# Awesomeish Haskell Machine Learning
-A collection of awesome Haskell-Machine-Learning residencies, workshops/schools, labs, FOSS projects, fellowships. Inspired by the awesome projects, but without a focus on code.
+# Awesome Haskell Machine Learning
+A collection of awesome Haskell-Machine-Learning residencies, workshops/schools, labs, FOSS projects, and fellowships. Inspired by the awesome projects, but without a focus on code.
 
 #### Conferences:
 
